@@ -1,0 +1,4 @@
+*.keys
+*.log
+redis-bulk-delete
+redis-bulk-delete-*
